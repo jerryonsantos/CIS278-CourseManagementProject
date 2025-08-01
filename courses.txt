@@ -1,0 +1,4 @@
+CIS278, Intro to C++, Eftekari,2
+MATH253,Calculus I, Hasson ,3
+PHYS150,Physics I,Hein ,2
+ENG101,English Composition, Goldstone ,3
