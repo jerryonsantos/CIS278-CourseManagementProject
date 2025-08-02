@@ -34,6 +34,5 @@ This C++ console application simulates a University Course Management System and
 ### USING TERMINAL
 
 1. Clone this GitHub repo
-2. Navigate to project folder
-3. Compile c++ code
-4. Run Program
+2. Compile the program using g++
+3. Run the executable:
