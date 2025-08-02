@@ -22,3 +22,18 @@ This C++ console application simulates a University Course Management System and
 3. std::queue - Maintains a waitlist for students trying to enroll in full courses.
 4. std::deque - Stores an activity log (enrollments, drops, waitlist moves) for quick push operations.
 
+
+## How to run
+### ON IDE
+
+1. Open CLion or any IDE
+2. Create a new project or open the folder where your main.cpp file is.
+3. Paste my code into each seperate files
+4. Click the green "Run" triangle button at the top right.
+
+### USING TERMINAL
+
+1. Clone this GitHub repo
+2. Navigate to project folder
+3. Compile c++ code
+4. Run Program
